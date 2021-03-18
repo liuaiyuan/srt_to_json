@@ -1,7 +1,7 @@
 package test
 
 import (
-	"subtitle/src/subtitle"
+	"github.com/liuaiyuan/srt_to_json/src/subtitle"
 	"testing"
 )
 
